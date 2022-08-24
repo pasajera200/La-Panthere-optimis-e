@@ -118,12 +118,15 @@ a:hover {
 .d-bloc .divider-h span {
     border-color: rgba(255, 255, 255, .2);
 }
+.d-bloc a .icon-md {
+        color: white;
+}
+
 
 .d-bloc .a-btn,
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
 .d-bloc a .icon-sm,
-.d-bloc a .icon-md,
 .d-bloc a .icon-lg,
 .d-bloc a .icon-xl,
 .d-bloc h1 a,
@@ -707,6 +710,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    color:#000000;
 }
 
 h2 {
