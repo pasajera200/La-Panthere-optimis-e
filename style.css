@@ -698,8 +698,10 @@ p {
 }
 
 .image-resize-mode {
-    width: 18%;
-    height: 100px;
+    width: 100%;
+    height: 20px;
+    max-width: 30%;
+max-height: 30px;
 
 }
 
