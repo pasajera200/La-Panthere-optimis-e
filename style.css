@@ -305,6 +305,7 @@ a:hover {
 }
 
 .navbar-brand img {
+    height: 40px;
     max-height: 40px;
     width: auto;
     margin: 0 5px 0 0;
@@ -753,6 +754,7 @@ h4 {
 }
 .img-responsive {
     display: block;
+    width: 100%;
     max-width: 100%;
     height: auto;
 }
