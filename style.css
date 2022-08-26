@@ -305,7 +305,8 @@ a:hover {
 }
 
 .navbar-brand img {
-    max-height: 200px;
+    max-height: 40px;
+    width: auto;
     margin: 0 5px 0 0;
     display: inline;
 }
@@ -318,10 +319,7 @@ a:hover {
     margin: 0;
 }
 
-.navbar-header img {
-    width:100%;
-    height: 40px;
-}
+
 .navbar .nav {
     padding-top: 2px;
     margin-right: -16px;
@@ -697,10 +695,6 @@ p {
     margin: auto auto auto auto;
 }
 
-.image-resize-mode {
-    width: 18%;
-    height: 103px;
-}
 
 .h1 {
     font-size: 20px;
@@ -757,11 +751,15 @@ h4 {
 .white {
     color: black!important;
 }
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
 
 .portfolio-thumb {
     margin-bottom: 24px;
-    width: 100%;
-    height: 270px;
+   
 }
 
 .portfolio-row {
