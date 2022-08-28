@@ -683,13 +683,14 @@ a {
 }
 
 p {
-    font-size:14px;
+    font-size:15px;
 }
 
 #textp {
-    font-size: 40px;
+    font-size:20px;
     font-style: italic;
 }
+
 
 .tight-width-whitespace {
     max-width: 600px;
