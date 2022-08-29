@@ -1066,6 +1066,15 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+
+    #bloc-4-portfolio a {
+        display: flex;
+        justify-content: center;
+    }
+
+    #bloc-8 .col-sm-4 {
+        padding-left: 40px;}
+        
 }
 
 }
