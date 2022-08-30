@@ -808,6 +808,10 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.tc-white2 {
+    color: #000000; 
+}
+
 .btn-atomic-tangerine {
     background: #F3976C;
     color: black!important;
@@ -1074,6 +1078,10 @@ h4 {
 
     #bloc-8 .col-sm-4 {
         padding-left: 40px;}
+
+    h2{
+        font-size: 20px;
+    }
         
 }
 
